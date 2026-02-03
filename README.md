@@ -15,7 +15,7 @@ Pro výpis informací o tom co již bylo testováno, lze použít vlaječku '--v
 python3 projekt.py -pcons none --verbose
 ```
 
-Slozku s maticemi k otestovani lze specifikovat vlaječkou '-matrix_folder'. Například:
+Slozku s maticemi k otestovani lze specifikovat vlaječkou '-matrix_folder':
 ```bash
 python3 projekt.py -matrix_folder [moje_skvela_slozka] -pcons sor gamg
 ```
