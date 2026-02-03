@@ -17,7 +17,7 @@ python3 projekt.py -pcons none --verbose
 
 Slozku s maticemi k otestovani lze specifikovat vlaječkou '-matrix_folder'. Například:
 ```bash
-python3 projekt.py -matrix_folder ~/home/moje_skvela_slozka -pcons sor gamg
+python3 projekt.py -matrix_folder [moje_skvela_slozka] -pcons sor gamg
 ```
 Pokud vlaječku nepoužijeme, program bude matice hledat ve složce './matrices'. 
 Matice se očekávájí ve formátu '.mtx'.
